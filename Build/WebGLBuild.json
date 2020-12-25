@@ -1,10 +1,10 @@
 {
 "companyName": "Tomasheep",
 "productName": "WhiteStopWatch",
-"productVersion": "0.1",
-"dataUrl": "WebGL.data.unityweb",
-"wasmCodeUrl": "WebGL.wasm.code.unityweb",
-"wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
+"productVersion": "0.3",
+"dataUrl": "WebGLBuild.data.unityweb",
+"wasmCodeUrl": "WebGLBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGLBuild.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.5f1"
+"unityVersion": "2019.4.14f1"
 }
